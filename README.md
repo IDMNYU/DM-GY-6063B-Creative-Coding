@@ -204,6 +204,10 @@ Works cited:
 * [Fluxus Performance Workbook](http://www.deluxxe.com/beat/fluxusworkbook.pdf)
 * Jackson Mac Low, [Insect Assassins](http://www.poets.org/poetsorg/poem/insect-assassins) and [Call Me Ishmael](http://www.poets.org/poetsorg/poem/call-me-ishmael) (examples of "diastic")
 
+Notes:
+
+* [First steps with p5.js](http://creative-coding.decontextualize.com/first-steps/)
+
 Additional resources:
 
 * [Learning p5.js](https://vimeo.com/channels/learningp5js), video tutorials
