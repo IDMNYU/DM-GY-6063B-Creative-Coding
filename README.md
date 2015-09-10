@@ -214,7 +214,7 @@ Additional resources:
   from [Dan Shiffman](http://shiffman.net/)
 * [p5.js tutorials](http://p5js.org/tutorials/)
 
-Assignment #1, due September 10th: Create a drawing with p5.js and upload the
+Assignment #1, due September 10: Create a drawing with p5.js and upload the
 source code for your drawing to the Internet. Limit yourself to the following
 Processing functions: `line()`, `triangle()`, `quad()`, `rect()`, `ellipse()`,
 `fill()`, `stroke()`, and `strokeWeight()`. Draw something beautiful or
@@ -226,14 +226,21 @@ intentionally banal.
 * Values, types, and expressions
 * Variables
 * Loops
-* Flow control (if/else)
 
-Assignment #2 TBD.
+Notes:
+
+* [Expressions, variables and loops](http://creative-coding.decontextualize.com/expressions-variables-and-loops/)
+
+Assignment #2, due September 18: Rework your first assignment to make use of
+variables, expressions and loops. In your documentation, include screenshots of
+how changing a single variable in your sketch effects the way the sketch looks.
+EXTRA CREDIT: use a nested `for` loop (i.e., one `for` loop inside of another).
 
 ###Session 03: September 17
 
 * Changes over time
 * Simple interactivity
+* Flow control (if/else)
 * Randomness
 
 Assignment #3 TBD.
