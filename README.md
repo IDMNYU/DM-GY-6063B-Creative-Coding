@@ -238,12 +238,22 @@ EXTRA CREDIT: use a nested `for` loop (i.e., one `for` loop inside of another).
 
 ###Session 03: September 17
 
+* Javascript details: Comments, code formatting, numbers
 * Changes over time
 * Simple interactivity
 * Flow control (if/else)
 * Randomness
 
-Assignment #3 TBD.
+Notes:
+
+* [Changes over time](http://creative-coding.decontextualize.com/changes-over-time/)
+* [Interaction](http://creative-coding.decontextualize.com/interaction/)
+
+Assignment #3, due September 24: Create an artwork that responds to user input
+and changes over time. Your work should make use of one of the methods of
+oscillation discussed in class, at least one of the three variables we
+discussed for making use of mouse input, and the code should contain at least
+one `if` statement.
 
 ###Session 04: September 24
 
