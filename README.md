@@ -8,7 +8,7 @@ Fall 2015 / Thursdays 6:30-9:20pm MAGNET 825
 
 Your professor: [Allison Parrish](http://www.decontextualize.com/). E-mail me: [aparrish@nyu.edu](mailto:aparrish@nyu.edu).
 
-Office hours TBD (by appointment for the time being).
+Office hours: Wednesdays, 4pm to 5:30pm at MAGNET (adjunct's work area)
 
 ##Course description
 
@@ -257,10 +257,16 @@ one `if` statement.
 
 ###Session 04: September 24
 
-* The transformation matrix
-* Writing functions
+* [Transformations and functions](http://creative-coding.decontextualize.com/transformations-and-functions/)
 
-Assignment #4 TBD.
+Assignment #4, due October 1: Create a visual work that makes use of functions,
+loops and transformations to form repeating shapes and patterns with subtle
+variation. (You can incorporate interactivity and change over time if you'd
+like, but it's not necessary.) Some visual references: [Casey Reas, Yes
+No](http://reas.com/yesno_s2/); [Gerhard Richter, 180
+Farben](http://www.philamuseum.org/collections/permanent/92487.html),
+[Untitled, Jean Arp](http://www.moma.org/collection/works/37013),
+[Lacey Micallef's animated gifs](http://laceymicallef.com/).
 
 ###Session 05: October 1
 
