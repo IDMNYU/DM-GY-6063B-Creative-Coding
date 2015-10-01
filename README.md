@@ -270,9 +270,10 @@ Farben](http://www.philamuseum.org/collections/permanent/92487.html),
 
 ###Session 05: October 1
 
-* Working with media: images, fonts, shapes, sounds, video
+* [Working with media: images and audio](http://creative-coding.decontextualize.com/media/)
 
-Assignment #5 TBD.
+Assignment #5, due October 8: Create an overwhelming interactive audio visual
+experience using images and audio. (References TK.)
 
 ###Session 06: October 8
 
