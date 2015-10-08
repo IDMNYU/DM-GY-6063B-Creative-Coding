@@ -277,13 +277,14 @@ experience using images and audio. (References TK.)
 
 ###Session 06: October 8
 
-* Arrays and objects
-* Working with strings
-* Working with data: An introduction
+* [Arrays, objects, and working with data](http://creative-coding.decontextualize.com/arrays-and-objects/)
 
-Assignment #6 TBD.
+Assignment #6, due October 22: Create a sketch that keeps track of user action
+over the course of each instance of the sketch being run (clicks, keypresses,
+etc). Alternatively (or as a bonus): Use data from a CSV file to draw a simple
+data visualization.
 
-###Session 07: October 15
+###Session 07: October 19 (this is a make-up session for October 15)
 
 * Object-oriented programming
 
