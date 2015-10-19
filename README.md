@@ -286,16 +286,18 @@ data visualization.
 
 ###Session 07: October 19 (this is a make-up session for October 15)
 
-* Object-oriented programming
+* [More about
+  functions](http://creative-coding.decontextualize.com/functions-continued/);
+  [objects with
+  methods](http://creative-coding.decontextualize.com/objects-with-methods/).
 
-Assignment #7 TBD.
 
 ###Session 08: October 22
 
 * Generative language techniques (RiTa, etc.)
 * Speech synthesis with p5.speech
 
-Assignment #8 TBD.
+Combined assignments #7/#8: TBD.
 
 ###Session 09: October 29
 
