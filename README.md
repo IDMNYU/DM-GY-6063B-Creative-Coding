@@ -294,28 +294,34 @@ data visualization.
 
 ###Session 08: October 22
 
-* Generative language techniques (RiTa, etc.)
-* Speech synthesis with p5.speech
+* Text and type. [Notes.](http://creative-coding.decontextualize.com/text-and-type/)
 
-Combined assignments #7/#8: TBD.
+Combined assignments #7/#8: Create a work of *electronic literature*. See [the
+Electronic Literature Collection](http://collection.eliterature.org/) for
+inspiration ([volume 1](http://collection.eliterature.org/1/), [volume
+2](http://collection.eliterature.org/2/)). See also [Ubuweb: Visual
+Poetry](http://www.ubu.com/vp/). EXTRA CREDIT: Use object-oriented programming
+somewhere in your sketch.
 
 ###Session 09: October 29
 
 * Working with the DOM
+* Video!
 * p5.js and mobile devices
 
 Assignment #9 TBD.
 
 ###Session 10: November 5
 
-* Games and game-like things with p5play
+* Generative language techniques (RiTa, etc.)
+* Speech synthesis with p5.speech
 
 Assignment #10 TBD.
 
 ###Session 11: November 12
 
 * Final project proposals
-* Sound synthesis
+* Games and game-like things with p5play
 
 ###Session 12: November 19
 
@@ -325,7 +331,8 @@ Assignment #10 TBD.
 ###Session 13: December 3
 
 * Final project check-in
-* Make a Twitter bot!
+* Sound synthesis?
+* Twitter bots?
 
 ###Session 14: December 10
 
