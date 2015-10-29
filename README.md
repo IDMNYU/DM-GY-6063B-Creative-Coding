@@ -305,11 +305,19 @@ somewhere in your sketch.
 
 ###Session 09: October 29
 
-* Working with the DOM
-* Video!
-* p5.js and mobile devices
+* [Browser
+  controls](http://creative-coding.decontextualize.com/browser-controls/)
+* [Video](http://creative-coding.decontextualize.com/video/)
 
-Assignment #9 TBD.
+Assignment #9, due November 5. Make a sketch that meets one (or more) of the
+following descriptions: (a) Adapt an earlier homework so that it uses HTML
+controls (like buttons, sliders, text input fields). BONUS: Incorporate an HTML
+control from `p5.dom` that we *didn't* talk about in class. (b) Make a sketch
+that creatively re-interprets the pixels in a video (whether pre-recorded or
+from the webcam). For inspiration, see the work of [Nam June
+Paik](https://www.youtube.com/results?search_query=nam+june+paik), [Golan
+Levin](http://www.flong.com/projects/), [Zach
+Lieberman](http://thesystemis.com/projects/).
 
 ###Session 10: November 5
 
@@ -322,6 +330,7 @@ Assignment #10 TBD.
 
 * Final project proposals
 * Games and game-like things with p5play
+* p5.js and mobile devices
 
 ###Session 12: November 19
 
