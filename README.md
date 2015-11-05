@@ -334,6 +334,10 @@ features of RiTaJS that we *didn't* discuss in class. (2) Make a sketch that
 uses *some other* 3rd-party library for p5.js. [Here's a
 list](http://p5js.org/libraries/) (check in the "Contributed" section).
 
+*Supplementary assignment.* Come prepared on Nov 12 to pitch an idea for your
+final project. We'll discuss these in class. If you have a prototype: even
+better!
+
 ###Session 11: November 12
 
 * Final project proposals
