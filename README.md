@@ -321,10 +321,18 @@ Lieberman](http://thesystemis.com/projects/).
 
 ###Session 10: November 5
 
-* Generative language techniques (RiTa, etc.)
-* Speech synthesis with p5.speech
+* [Using external
+  libraries](http://creative-coding.decontextualize.com/external-libraries)
+* [Simple generative language techniques with
+  RiTaJS](http://creative-coding.decontextualize.com/intro-to-ritajs/)
+* More, if time! (Markov chain generation, p5.speech)
 
-Assignment #10 TBD.
+Assignment #10, due November 12. Two options this week. (1) Make a sketch that
+modifies or generates language creatively, using the RiTaJS library. This can
+be an extension of assignment #7/8, if you want. Bonus points for using
+features of RiTaJS that we *didn't* discuss in class. (2) Make a sketch that
+uses *some other* 3rd-party library for p5.js. [Here's a
+list](http://p5js.org/libraries/) (check in the "Contributed" section).
 
 ###Session 11: November 12
 
