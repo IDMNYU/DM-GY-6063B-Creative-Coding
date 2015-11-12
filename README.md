@@ -341,12 +341,12 @@ better!
 ###Session 11: November 12
 
 * Final project proposals
-* Games and game-like things with p5play
-* p5.js and mobile devices
+* [Games and game-like things with p5.play](http://creative-coding.decontextualize.com/making-games-with-p5-play/)
 
 ###Session 12: November 19
 
 * Final project check-in
+* p5.js and mobile devices
 * Server-side programming: An introduction
 
 ###Session 13: December 3
