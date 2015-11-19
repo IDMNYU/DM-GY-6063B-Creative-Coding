@@ -346,8 +346,8 @@ better!
 ###Session 12: November 19
 
 * Final project check-in
-* p5.js and mobile devices
-* Server-side programming: An introduction
+* p5.play continued
+* [p5.js and mobile devices](http://creative-coding.decontextualize.com/mobile/) (code examples in this repository)
 
 ###Session 13: December 3
 
