@@ -1,0 +1,16 @@
+{
+  "name": "node-examples",
+  "version": "1.0.0",
+  "description": "node examples by Allison Parrish",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-twitter-api": "^1.6.2",
+    "rita": "^1.1.21"
+  }
+}
