@@ -352,8 +352,8 @@ better!
 ###Session 13: December 3
 
 * Final project check-in
-* Sound synthesis?
-* Twitter bots?
+* [Node.js overview](http://creative-coding.decontextualize.com/node/) (code
+  examples in this repository)
 
 ###Session 14: December 10
 
